@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Welcome to My GitHub Profile
 
-I,m Chaitra Ishwar Hiremath,I'm a Computer Science Student and,I'm also Intrested in Learning new technologies.
+I,m Chaitra Ishwar Hiremath,Passionate Computer Science student at JSSSTU.Tech enthusiast and lifelong learner, passionate about exploring and understanding new technologies.
 
 ## Languages and Tools
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
