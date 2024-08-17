@@ -14,6 +14,8 @@ I,m Chaitra Ishwar Hiremath,Passionate Computer Science student at JSSSTU.Tech e
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white&style=flat)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-FF9900?logo=jupyter&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white&style=flat)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaitra444&show_icons=true&locale=en&layout=compact" alt="chaitra444" /></p>
 
